@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(135deg, rgb(62, 6, 104), rgba(153, 226, 255, 0.667));
+    color: whitesmoke;
+    padding-top: 4%;
+    padding-left: 30%;
+}
+.container h1{
+    display: flex;
+    align-items: center;
+    font-size: 35px;
+    font-weight: 600;
+}
+.container button{
+    display: flex;
+    align-items: center;
+    background: linear-gradient(rgba(17, 42, 153, 0.533),rgba(17, 119, 39, 0.453));
+    color: whitesmoke;
+    font-size: 20px;
+    outline: 0;
+    border: 0;
+    border-radius: 5px;
+    padding: 10px 20px 10px 20px;
+    margin: 30px 0 20px;
+    cursor: pointer;
+}
+.box-input{
+    position: relative;
+    width: 100%;
+    max-width: 500px;
+    min-height: 130px;
+    background: rgba(245, 245, 245, 0.527);
+    color: #333;
+    padding: 20px;
+    margin: 20px 0;
+    outline: none;
+    border-radius: 5px;
+}
+.box-input img {
+    width: 25px;
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+    cursor: pointer;
+}
