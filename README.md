@@ -263,5 +263,3 @@ Sure, let's break down the provided CSS code step-by-step:
 - **Button Styling**: Flexbox button with gradient background, rounded corners, and pointer cursor.
 - **Note Box Styling**: Styled note box with relative positioning, padding, margin, and rounded corners.
 - **Delete Icon Styling**: Positioned delete icon within the note box with pointer cursor.
-
-If you need further details or have any specific questions about the CSS, feel free to ask!
